@@ -1,0 +1,8 @@
+flask
+nltk
+scikit-learn
+numpy
+
+
+
+pip install -r requirements.txt
