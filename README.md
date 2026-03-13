@@ -51,7 +51,7 @@ text_summarization_project
 └── README.md             # Project documentation
 # ⚙ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/text-summarization-nlp.git
+git clone https://github.com/238W5A0515/text-summarization-nlp.git
 cd text-summarization-nlp
 2️⃣ Install Dependencies
 pip install -r requirements.txt
